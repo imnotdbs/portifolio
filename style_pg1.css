@@ -1,0 +1,552 @@
+._body{
+    background-color: #d33599;
+}
+
+
+/*NavBar Fixa*/
+.navbar{
+    opacity: 80%;
+}
+
+
+
+
+/*Texto Bem Vindo*/
+.wlc{
+    font-family: 'Common Pixel', sans-serif;
+    background-color: #1fec63;
+    border: 2px solid #000000;
+    max-width: 900px;
+    max-height: 500px;
+    width: 100%;
+    height: auto;
+    margin-top: 250px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+    box-shadow: 5px 5px #000000;
+}
+.f1{
+    text-align: start;
+    padding-left: 5%;
+    padding-top: 1%;
+    margin-bottom: 0;
+    font-size: clamp(1vw, 1em + 0.8vw, 2.5em);
+}
+.f2{
+    text-align: start;
+    padding-left: 5%;
+    padding-top: 1%;
+    font-size: clamp(4vw, 1rem + 3vw, 8vw);
+}
+
+
+
+
+/*Contato*/
+.ctt{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.insta_logo{
+    height: 30px;
+    padding-right: 20px;
+    opacity: 40%;
+}
+.insta_logo:hover{
+    vertical-align: middle;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    opacity: 100%;
+}
+.tt_logo{
+    height: 30px;
+    padding-right: 20px;
+    opacity: 40%;
+}
+.tt_logo:hover{
+    vertical-align: middle;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    opacity: 100%;
+}
+.gth_logo{
+    height: 30px;
+    padding-right: 20px;
+    opacity: 40%;
+}
+.gth_logo:hover{
+    vertical-align: middle;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    opacity: 100%;
+}
+.lnk_logo{
+    height: 30px;
+    padding-right: 20px;
+    opacity: 40%;
+}
+.lnk_logo:hover{
+    vertical-align: middle;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    opacity: 100%;
+}
+
+
+
+
+/*Navegação*/
+.nav_edit{
+    text-align: center;
+    font-family: 'SF Pixelate', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: #1fec63;
+    border: 1px solid #000000;
+    color:#000000;
+    margin-top: 20%;
+    margin-bottom: 5%;
+    margin-left: 25%;
+    border-radius: 900px;
+    transition-duration: 0.2s;
+    height: 46px;
+    width: 126px;
+    box-shadow: 4px 4px #000000ee;
+}
+    .nav_edit:hover{
+        background-color: #1fec63;
+        border: 1px solid rgba(0, 0, 0, 0.801);
+        padding: 1px;
+        box-shadow: 1px 1px #000000ee;
+    }
+.nav_edit2{
+    font-family: 'SF Pixelate', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color:#000000;
+    transition-duration: 0.2s;
+}
+
+
+
+
+
+/*Sobre Mim*/
+#s1{
+    margin-top: 160px;
+}
+#sb1{
+    text-align: center;
+    font-family: 'SF Pixelate', sans-serif;
+    font-weight: bold;
+    margin-bottom: 45px;
+    border-radius: 15px;
+    height: auto;
+    max-width: 800px;
+    width: auto;
+    background-color: #1fec63;
+    border: 2px solid #000000;
+    box-shadow: 5px 5px #000000;
+    padding: 15px;
+}
+.imgv{
+    text-align: center;
+    max-height: 550px;
+    max-width: 300px;
+    height: auto;
+    width: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    box-shadow: 3px 3px #000000;
+}
+.tst{
+    margin-right: 100px;
+}
+.bot{
+    margin-top: 50px;
+}
+.tsb{
+    text-align: justify;
+    font-size: 16px; 
+    margin: 20px;
+}
+.titulo{
+    color: #000000;
+    margin-bottom: 25px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.nav_edit_{
+    font-family: 'SF Pixelate', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+    background-color: #d33599;
+    border: 1px solid #000000;
+    color:#000000;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border-radius: 900px;
+    transition-duration: 0.2s;
+    height: 46px;
+    width: 250px;
+    box-shadow: 4px 4px #000000ee;
+}
+    .nav_edit_:hover{
+        background-color: #1fec63;
+        border: 1px solid rgba(0, 0, 0, 0.801);
+        padding: 1px;
+        box-shadow: 1px 1px #000000ee;
+    }
+
+
+
+
+
+/*Habilidades*/
+#s2{
+    margin-top: 0px;
+}
+#sb2{
+    text-align: center;
+    font-family: 'SF Pixelate', sans-serif;
+    font-weight: bold;
+    margin-bottom: 100px;
+    border-radius: 15px;
+    height: auto;
+    width: auto;
+    background-color: #1fec63;
+    border: 2px solid #000000;
+    box-shadow: 5px 5px #000000;
+    padding: 15px;
+}
+.img2{
+    height: auto;
+    width: 300px;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    box-shadow: 3px 3px #000000;
+}
+.titulo2{
+    color: #000000;
+    margin-top: 50px;
+    text-decoration: underline;
+    text-align: center;
+}
+.tsb2{
+    color: #000000;
+    text-align: justify;
+    font-size: 16px; 
+    margin: 10px;
+}
+.bg{
+    background-color: #d33599;
+    color: #1fec63;
+    text-align: center;
+    margin-bottom: 25px;
+    margin-left: 10px;
+    box-shadow: 2px 2px #000000;
+}
+.bbg{
+    text-align: center;
+}
+
+
+
+
+
+/*Projetos*/
+.edit_col{
+    background-color: #4a006a;
+}
+#s3{
+    margin-top: 1%;
+}
+#sb3{
+    font-family: 'SF Pixelate', sans-serif;
+    margin-bottom: 70px;
+    border-radius: 15px;
+    height: auto;
+    width: auto;
+    background-color: #000c798d;
+    border: 2px solid #000000;
+    box-shadow: 5px 5px #000000;
+}
+.img3{
+    max-height: 250px;
+    height: auto;
+    width: 100%;
+    max-width: 250px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    border: 2px solid #00b3ff;
+}
+.titulo3{
+    color: #00b3ff;
+    margin-top: 25px;
+    text-decoration: underline;
+    text-align: center;
+}
+.tsb_i{
+    color: #00b3ff;
+    text-align: justify;
+    padding: 10px;
+}
+.tsb3{
+    color: #00b3ff;
+    text-align: justify;
+    font-size: 16px; 
+}
+.tsb4{
+    color: #00b3ff;
+    text-align: justify;
+    font-size: 16px; 
+    margin-bottom: 20px;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+.nav_edit_2{
+    font-family: 'SF Pixelate', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    list-style: none;
+    background-color: #d0ff00;
+    border: 1px solid #000000;
+    color:#000000;
+    margin-left: 150px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border-radius: 500px;
+    transition-duration: 0.2s;
+    width: 190px;
+    box-shadow: 4px 4px #000000ee;
+    text-align: center;
+    padding: 0;
+}
+    .nav_edit_2:hover{
+        background-color: #000c798d;
+        border: 1px solid rgba(0, 0, 0, 0.801);
+        box-shadow: 1px 1px #000000ee;
+    }
+.nav_edit3{
+    color: #fd00fe;
+}
+    .nav_edit3:hover{
+        color: #d0ff00;
+    }
+.nav_edit4{
+    text-align: center;
+    color: #fd00fe;
+}
+    .nav_edit4:hover{
+        color: #00b3ff;
+    }
+.nav_edit_3{
+    font-family: 'SF Pixelate', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    list-style: none;
+    background-color: #d0ff00;
+    border: 1px solid #000000;
+    color:#fd00fe;
+    margin-bottom: 40px;
+    border-radius: 900px;
+    transition-duration: 0.2s;
+    height: 46px;
+    width: 350px;
+    box-shadow: 4px 4px #000000ee;
+}
+    .nav_edit_3:hover{
+        background-color: #fd00fe;
+        border: 1px solid rgba(0, 0, 0, 0.801);
+        padding: 1px;
+        box-shadow: 1px 1px #000000ee;
+    }
+
+
+
+
+
+
+    
+
+/*Creditos*/
+.edit_creditos{
+    font-family: 'SF Pixelate', sans-serif;
+    text-align: center;
+    
+}
+.cd_tudo{
+    font-family: 'SF Pixelate', sans-serif;
+    background-color: #1fec63;
+    border: 1px solid #000000;
+    border-radius: 15px;
+    box-shadow: 5px 5px #000000ee;
+    margin: 1%;
+    padding: 10px;
+}
+.bdor{
+    margin-top: 60px;
+    background-color: #d33599;
+    border: 2px solid #000000;
+    border-radius: 15px;
+    box-shadow: 5px 5px #000000;
+    max-width: 500px;
+    height: auto;
+    width: 100%;
+}
+.tt_end1{
+    color: #000000;
+    text-decoration: underline;
+    margin-top: 50px;
+
+}
+.tt_end2{
+    color: #000000;
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 20px;
+    margin-top: 60px;
+}
+
+.lnl_eml{
+    color: #000000;
+    text-decoration: none;
+}
+.img_end{
+    text-align: center;
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+    border-radius: 25px;
+    border: 2px solid #000000;
+    box-shadow: 3px 3px #000000;
+}
+.insta_logo2{
+    height: 30px;
+    opacity: 40%;
+}
+.insta_logo2:hover{
+    vertical-align: middle;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    opacity: 100%;
+}
+.tt_logo2{
+    height: 30px;
+    opacity: 40%;
+}
+.tt_logo2:hover{
+    vertical-align: middle;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    opacity: 100%;
+}
+.gth_logo2{
+    height: 30px;
+    opacity: 40%;
+}
+.gth_logo2:hover{
+    vertical-align: middle;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    opacity: 100%;
+}
+.lnk_logo2{
+    height: 30px;
+    opacity: 40%;
+}
+.lnk_logo2:hover{
+    vertical-align: middle;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+    opacity: 100%;
+}
+.hst{
+    font-family: 'SF Pixelate', sans-serif;
+    text-decoration: none;
+    color:#d33599;
+    width: 200px;
+
+}
+    .hst:hover{
+        color: #d0ff00;
+        text-decoration: none;
+    }
+.bol1{
+    margin-bottom: 25px;
+}
+.emll{
+    width: 200px;
+}
+
+.nav_edit_4{
+    font-family: 'SF Pixelate', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    list-style: none;
+    background-color: #d33599;
+    border: 1px solid #000000;
+    color:#fd00fe;
+    margin-top: 80px;
+    margin-bottom: 50px;
+    border-radius: 900px;
+    transition-duration: 0.2s;
+    height: 46px;
+    width: 130px;
+    box-shadow: 4px 4px #000000ee;
+}
+    .nav_edit_4:hover{
+        background-color: #1fec63;
+        border: 1px solid rgba(0, 0, 0, 0.801);
+        padding: 1px;
+        box-shadow: 1px 1px #000000ee;
+    }
+
+.nav_edit5{
+    text-align: center;
+}
+.tt_end3{
+    font-family: 'Common Pixel', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    color: #000000;
+}
+.icons{
+    max-width: 30px;
+    max-height: 50px;
+    height: auto;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.img_end{
+    max-width: 250px;
+    margin-bottom: 40px;
+
+
+}
+.bg2{
+
+    font-family: 'Common Pixel', sans-serif;
+    background-color: #d33599;
+    color: #000000;
+    text-align: center;
+    margin-bottom: 25px;
+    margin-left: 10px;
+    width: 150px;
+    box-shadow: 2px 2px #000000;
+}

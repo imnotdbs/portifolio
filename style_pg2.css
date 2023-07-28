@@ -1,0 +1,18 @@
+.body{
+    background-color: #d33599;
+}
+.desenvolvimento{
+    font-family: 'SF Pixelate', sans-serif;
+    font-weight: bold;
+    margin-top: 75%;
+    text-align: center;
+    background-color: #1fec63;
+    color: black;
+    border-radius: 15px;
+    border: 1px solid #000;
+    box-shadow: 5px 5px #000;
+    max-width: 800px;
+    max-height: 200px ;
+    width: 100%;
+    height: auto;
+}
